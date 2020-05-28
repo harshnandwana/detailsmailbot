@@ -1,0 +1,2 @@
+# detailsmailbot
+ IPmacandhostnamemailbot
